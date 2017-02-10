@@ -1,0 +1,49 @@
+# Compiled Sources #
+####################
+*.o
+*.so
+*.a
+
+# Swap files #
+##############
+*.swp
+
+# OS Generated Files #
+######################
+*.DS_Store
+*.DS_Store?
+*._*
+*.Spotlight-V100
+*.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Test Files #
+##############
+toto
+toto1
+toto2
+tata
+titi
+caca
+
+# Project Executables #
+#######################
+a.out
+Colleen
+Grace
+Sully
+Grace_kid.c
+Sully_5.c
+Sully_4.c
+Sully_3.c
+Sully_2.c
+Sully_1.c
+
+# Folders #
+###########
+obj
+
+# Debug #
+#########
+*.dSYM
